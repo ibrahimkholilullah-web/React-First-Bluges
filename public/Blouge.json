@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://unsplash.com/photos/a-palm-tree-in-the-middle-of-a-desert-vtanmv3S-H4",
+      "title": "The Mysterious Forest",
+      "author": "John Smith",
+      "author_img": "https://example.com/authors/john_smith.jpg",
+      "reading_time": "8 min",
+      "posted_date": "2024-10-20",
+      "hashtag": ["#mystery", "#adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/images/book2.jpg",
+      "title": "AI in the Modern World",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/authors/jane_doe.jpg",
+      "reading_time": "10 min",
+      "posted_date": "2024-10-18",
+      "hashtag": ["#AI", "#technology"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/images/book3.jpg",
+      "title": "Exploring the Universe",
+      "author": "Michael Green",
+      "author_img": "https://example.com/authors/michael_green.jpg",
+      "reading_time": "12 min",
+      "posted_date": "2024-10-15",
+      "hashtag": ["#science", "#space"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/images/book4.jpg",
+      "title": "A Journey to the Unknown",
+      "author": "Sarah Brown",
+      "author_img": "https://example.com/authors/sarah_brown.jpg",
+      "reading_time": "9 min",
+      "posted_date": "2024-10-10",
+      "hashtag": ["#travel", "#adventure"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/book5.jpg",
+      "title": "The Secrets of Time",
+      "author": "David White",
+      "author_img": "https://example.com/authors/david_white.jpg",
+      "reading_time": "7 min",
+      "posted_date": "2024-10-05",
+      "hashtag": ["#history", "#mystery"]
+    }
+  ]
+  
